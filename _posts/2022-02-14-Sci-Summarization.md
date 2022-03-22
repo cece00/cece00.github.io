@@ -1,11 +1,11 @@
 ---
-title: 'PLM Details'
+title: 'Sci-Summarization'
 date: 2012-08-14
-permalink: /posts/2021/08/PLM Details/
+permalink: /posts/2022/02/Sci-Summarization/
 tags:
   - cool posts
-  - category1
-  - category2
+  - summarization
+  - nlp
 ---
 
 <!-- This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. -->

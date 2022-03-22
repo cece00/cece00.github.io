@@ -1,6 +1,6 @@
 ---
 title: 'Sci-Summarization'
-date: 2012-08-14
+date: 2022-02-14
 permalink: /posts/2022/02/Sci-Summarization/
 tags:
   - cool posts
@@ -105,12 +105,3 @@ segment是文本被分成的等长片段，文中探讨了如何确定segment和
 设置了不同的lambda来调整句子的edge weight：当i和更重要的句子j相连时，其weight要更高。
 
 <img src="../images/posts/summarization/截屏2021-12-02 下午10.07.12.png" alt="截屏2021-12-02 下午10.07.12" style="zoom:50%;" />
-
-<!-- Headings are cool -->
-======
-
-<!-- You can have many headings -->
-======
-
-<!-- Aren't headings cool? -->
-------
